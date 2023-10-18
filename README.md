@@ -17,7 +17,7 @@ pip install pygame numpy Pillow
 ```
 * **Run the Program:** Execute the script by running it directly with your IDE(PyCharm) or by using gthe following command.
 ```python
-pip python Flower and Circle Packing.py
+python 'Flower and Circle Packing.py'
 ```
 
 ## **Acknowledgments and References**
