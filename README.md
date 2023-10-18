@@ -20,7 +20,7 @@ pip install pygame numpy Pillow
 pip python Flower and Circle Packing.py
 ```
 
-## **Acknowledggments and References**
+## **Acknowledgments and References**
 * Developed using Python, Pygame, Numpy and Pillow.
 * Kevin Workman's Random Flower Grid Video: https://www.youtube.com/watch?v=Bpi_O-VhuCw
 * The Coding Train's Circle Packing Video: https://www.youtube.com/watch?v=QHEQuoIKgNE
